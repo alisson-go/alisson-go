@@ -1,212 +1,381 @@
-👩‍💻 Hi, I'm Alisson
-🛡️ Junior SOC Analyst | Cybersecurity | Blue Team
+<div align="center">
 
-Cybersecurity professional with a background in Telecommunications Engineering and specialized training in Cybersecurity.
+# 👩🏻‍💻 Hi, I'm Alisson
 
-I'm particularly interested in SOC operations, security monitoring, threat detection, incident analysis and defensive security.
+### 🛡️ Junior SOC Analyst · Cybersecurity · Blue Team
 
-I enjoy investigating security alerts, analyzing logs and network activity, and understanding the context behind suspicious behavior.
+**Investigating alerts · Analyzing logs · Detecting threats · Securing systems**
 
-🔎 About Me
-🛡️ Interested in SOC Analysis & Blue Team
-🔍 Experience with security monitoring and alert investigation
-📊 SIEM: Google SecOps / Chronicle
-🧩 Detection: YARA-L 2.0
-🤖 SOAR: playbooks, workflows and automated response
-🌐 Networking: TCP/IP, routing and traffic analysis
-🕵️ Threat Intelligence & XDR/EDR
-🐧 Windows / Linux / Kali Linux
-🐍 Python & SQL
-🎓 Master's Degree in Cybersecurity
-📡 Telecommunications Engineering background
-🛠️ Cybersecurity Stack
-🔐 Security
+<br>
 
+<a href="https://github.com/YOUR_USERNAME">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+<a href="YOUR_LINKEDIN_URL">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+<a href="mailto:YOUR_EMAIL">
+  <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
 
+</div>
 
+---
 
+## 🧭 About Me
 
+I'm a **Telecommunications Engineer specialized in Cybersecurity**, currently focused on building my career in **SOC Operations and Blue Team**.
 
+I enjoy going beyond the alert itself: understanding **what happened, why it happened and whether it represents a real threat**.
 
+My experience includes security monitoring, alert investigation, log correlation, detection engineering and automated response.
 
-🌐 Networking
+<table>
+<tr>
+<td width="50%" valign="top">
 
+### 🔎 Security Operations
 
+* 🛡️ SIEM monitoring
+* 🔍 Alert investigation
+* 📊 Log correlation
+* 🧩 Detection engineering
+* 🚨 Incident analysis
+* 🕵🏻 Threat Intelligence
+* 🤖 SOAR automation
 
+</td>
+<td width="50%" valign="top">
 
+### 🌐 Technical Background
 
+* 🌐 TCP/IP & networking
+* 🔐 PKI & certificates
+* 🐧 Linux / Windows
+* 🦈 Wireshark
+* 🐍 Python
+* 🗄️ SQL
+* 🐳 Docker
+* 🔧 Git
 
+</td>
+</tr>
+</table>
 
-💻 Programming & Tools
+---
 
+# 🛡️ Cybersecurity Arsenal
 
+<div align="center">
 
+### 🔎 SOC & Detection
 
+<img src="https://img.shields.io/badge/Google%20SecOps-4285F4?style=for-the-badge&logo=google&logoColor=white"/>
+<img src="https://img.shields.io/badge/YARA--L-Detection-EF4444?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/SOAR-Automation-7C3AED?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/XDR%20%2F%20EDR-Security-F97316?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Threat%20Intelligence-Analysis-991B1B?style=for-the-badge"/>
 
+<br><br>
 
+### 🌐 Networking
 
-🚨 Featured Projects
-🔎 SOC Detection & Investigation Lab
+<img src="https://img.shields.io/badge/TCP%2FIP-Networking-2563EB?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Wireshark-Analysis-1677FF?style=for-the-badge&logo=wireshark&logoColor=white"/>
+<img src="https://img.shields.io/badge/Cisco-Networking-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white"/>
+<img src="https://img.shields.io/badge/OSPF-Routing-0F766E?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/BGP-Routing-0F766E?style=for-the-badge"/>
 
-Practical cybersecurity laboratory focused on security monitoring, alert investigation and detection engineering.
+<br><br>
 
-Topics
-SIEM monitoring
-Log analysis
-Alert investigation
-Detection rules
-IOC analysis
-User authentication activity
-Suspicious network behavior
-Incident documentation
+### 💻 Development & Systems
 
-📁 SOC-Detection-Lab
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
+<img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white"/>
+<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
 
-🧩 YARA-L Detection Rules
+</div>
 
-Collection of detection rules inspired by real-world SOC use cases.
+---
 
-Use cases
-Suspicious authentication activity
-Impossible travel / country anomalies
-Phishing-related activity
-Suspicious mailbox rules
-Mass file downloads
-SharePoint activity
-External sender detection
+# 🚨 Featured Projects
 
-The objective is to demonstrate how security events can be correlated and contextualized to reduce false positives and improve detection quality.
+<div align="center">
 
-📁 YARA-L-Detection-Rules
+### 🔎 SOC Detection & Investigation Lab
 
-🔐 Secure Electronic Voting System
-Master's Thesis Project
+**From alert → investigation → evidence → conclusion**
 
-Secure electronic voting application implementing multiple security and cryptographic mechanisms.
+</div>
 
-Security architecture
-🔐 PKI / X.509 certificates
-🔒 Mutual TLS (mTLS)
-🧮 Homomorphic encryption
-🔑 BFV encryption scheme
-🗝️ Shamir's Secret Sharing
-🔢 2-of-3 threshold scheme
-🔐 SHA-256
-🐍 Python / Flask
-🌐 NGINX
+A practical cybersecurity laboratory focused on simulating SOC workflows and documenting security investigations.
 
-The system was designed so that votes could be encrypted and aggregated without exposing individual vote values, while administrative keys remained protected through secret sharing.
+**Focus areas**
 
-📁 secure-electronic-voting
+`SIEM` · `Log Analysis` · `Alert Investigation` · `IOC Analysis` · `Detection Rules` · `Incident Documentation`
 
-🌐 Network Security Lab
+Typical scenarios include:
 
-Practical exercises focused on network analysis and troubleshooting.
+* 🔐 Suspicious authentication activity
+* 🌍 Impossible travel / country anomalies
+* 📩 Phishing-related behavior
+* 📥 Suspicious mailbox rules
+* 📁 Mass file downloads
+* ☁️ SharePoint activity
+* 🌐 Suspicious network behavior
 
-Topics
-TCP/IP
-OSI model
-Routing
-OSPF / BGP
-VLANs
-Cisco networking
-Wireshark
-Packet analysis
-Network troubleshooting
+> 🎯 **Goal:** demonstrate how security events can be correlated and contextualized to distinguish suspicious activity from legitimate behavior.
 
-📁 network-security-labs
+**Repository:** `SOC-Detection-Lab`
 
-🎓 Education
-🎓 Master's Degree in Cybersecurity
+---
 
-Universidad Europea de Madrid
+<div align="center">
 
-Focus areas:
+### 🧩 YARA-L Detection Rules
 
-Cybersecurity
-Risk analysis
-ISO 27001
-MAGERIT / PILAR
-NIS2
-Security controls
-Incident management
-Cryptography
-📡 Telecommunications Engineering
+**Turning security events into detection logic**
 
-Universidad Rey Juan Carlos
+</div>
 
-Specialization in Sound and Video Systems
+A collection of detection rules based on SOC use cases, focused on **event correlation, contextualization and reducing unnecessary noise**.
 
-💼 Professional Experience
-🛡️ Cybersecurity — SOC
+```text
+Authentication anomalies
+        ↓
+Event correlation
+        ↓
+Detection logic
+        ↓
+Context enrichment
+        ↓
+Security alert
+```
 
-Vodafone
+**Use cases**
 
-Security monitoring using Google SecOps / Chronicle
-Investigation and contextualization of alerts
-Log correlation and event analysis
-YARA-L detection rules
-Security use cases and detection logic
-SOAR playbooks and automated workflows
-XDR / EDR
-Threat Intelligence
-Identity and authentication event analysis
-Documentation and classification of security incidents
-🌐 Telecommunications / Networking
+`Phishing` · `Authentication` · `Mailbox Rules` · `SharePoint` · `Mass Downloads` · `External Senders`
 
-Previous experience in:
+**Repository:** `YARA-L-Detection-Rules`
 
-FTTH network design
-Fixed network planning
-OLTs
-Network documentation
-SQL / Excel data analysis
-Network infrastructure
-Telecom engineering
-📚 Currently Learning
-SOC Operations
-├── SIEM
-├── Detection Engineering
-├── Incident Response
-├── Threat Intelligence
-└── Security Monitoring
+---
 
-Networking
-├── TCP/IP
-├── Routing
-├── OSPF
-├── BGP
-└── Network Analysis
+<div align="center">
 
-Cybersecurity
-├── Blue Team
-├── Digital Forensics
-├── Detection Rules
-└── Incident Investigation
-📊 GitHub Stats
+### 🔐 Secure Electronic Voting System
 
+**Master's Thesis · Applied Cryptography · Secure Architecture**
 
+</div>
 
+A secure electronic voting application designed around multiple layers of cryptographic and infrastructure security.
 
+<table>
+<tr>
+<td align="center">🔐<br><b>PKI / X.509</b></td>
+<td align="center">🔒<br><b>mTLS</b></td>
+<td align="center">🧮<br><b>Homomorphic Encryption</b></td>
+<td align="center">🔑<br><b>BFV</b></td>
+</tr>
+<tr>
+<td align="center">🗝️<br><b>Shamir</b></td>
+<td align="center">🔢<br><b>2-of-3</b></td>
+<td align="center">#️⃣<br><b>SHA-256</b></td>
+<td align="center">🐍<br><b>Python / Flask</b></td>
+</tr>
+</table>
 
+The system allows encrypted votes to be aggregated while keeping individual vote values protected. Administrative key material is additionally protected using **Shamir's Secret Sharing**.
 
+**Repository:** `secure-electronic-voting`
 
-📫 Let's Connect
+---
 
-💼 LinkedIn: Add your LinkedIn profile here
+<div align="center">
 
-📧 Email: Add your professional email here
+### 🌐 Network Security Lab
 
-🐙 GitHub: You're already here!
+**Networking · Traffic Analysis · Troubleshooting**
 
-🛡️ "Understand the alert. Investigate the context. Detect the threat."
+</div>
 
-Thanks for visiting my profile! 🚀
+Hands-on exercises focused on understanding and analyzing network communications.
 
-------------------------------------------------------------------------------------
+`TCP/IP` · `OSI` · `Routing` · `OSPF` · `BGP` · `VLANs` · `Cisco` · `Wireshark`
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> </a> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://grafana.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg" alt="grafana" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.elastic.co/kibana" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/elasticco_kibana/elasticco_kibana-icon.svg" alt="kibana" width="40" height="40"/> </a> <a href="https://kubernetes.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.nginx.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> </p>
+**Repository:** `network-security-labs`
+
+---
+
+# 💼 Experience
+
+<div align="center">
+
+### 🛡️ SOC · Cybersecurity
+
+**Vodafone**
+
+</div>
+
+My SOC experience has focused on the investigation and contextualization of security events using **Google SecOps / Chronicle**.
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+**🔎 Detection & Investigation**
+
+* Security monitoring
+* Alert investigation
+* Log correlation
+* YARA-L 2.0
+* Security use cases
+* Authentication analysis
+
+</td>
+<td width="50%" valign="top">
+
+**🤖 Automation & Intelligence**
+
+* SOAR playbooks
+* Automated workflows
+* XDR / EDR
+* Threat Intelligence
+* Incident documentation
+* Response actions
+
+</td>
+</tr>
+</table>
+
+---
+
+<div align="center">
+
+### 🌐 Telecommunications & Networking
+
+</div>
+
+Before specializing in cybersecurity, I worked in **telecommunications and FTTH network engineering**, gaining experience with network infrastructure, planning and technical documentation.
+
+`FTTH` · `OLT` · `Network Planning` · `Network Design` · `SQL` · `Excel` · `Network Documentation`
+
+This background gave me a strong foundation in **networking and infrastructure**, which I now apply to cybersecurity.
+
+---
+
+# 🎓 Education
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 🎓 Master's Degree in Cybersecurity
+
+**Universidad Europea de Madrid**
+
+`Cybersecurity`
+`Risk Analysis`
+`ISO 27001`
+`MAGERIT / PILAR`
+`NIS2`
+`Security Controls`
+`Incident Management`
+`Cryptography`
+
+</td>
+<td width="50%" valign="top">
+
+### 📡 Telecommunications Engineering
+
+**Universidad Rey Juan Carlos**
+
+**Specialization:**
+Sound & Video Systems
+
+Background in:
+
+`Networking` · `Telecommunications` · `Infrastructure` · `Systems`
+
+</td>
+</tr>
+</table>
+
+---
+
+# 🧠 Currently Exploring
+
+<div align="center">
+
+```text
+                    ┌─────────────────────┐
+                    │     CYBERSECURITY   │
+                    └──────────┬──────────┘
+                               │
+            ┌──────────────────┼──────────────────┐
+            ▼                  ▼                  ▼
+        🛡️ BLUE TEAM       🔎 DETECTION       🚨 RESPONSE
+            │                  │                  │
+        SIEM              YARA-L             IR
+        SOC               Use Cases          Investigation
+        Monitoring        Threat Hunting     Documentation
+            │                  │                  │
+            └──────────────────┼──────────────────┘
+                               ▼
+                       🌐 NETWORK SECURITY
+                               │
+                    TCP/IP · Wireshark
+                    Routing · Traffic Analysis
+```
+
+</div>
+
+---
+
+# 📊 GitHub Activity
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&hide_border=true&rank_icon=github&theme=transparent" height="165"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&hide_border=true&theme=transparent" height="165"/>
+
+</div>
+
+---
+
+# 📫 Let's Connect
+
+<div align="center">
+
+<a href="YOUR_LINKEDIN_URL">
+<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="mailto:YOUR_EMAIL">
+<img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<br><br>
+
+**Interested in cybersecurity, detection engineering and Blue Team operations?**
+
+</div>
+
+---
+
+<div align="center">
+
+### 🛡️ Understand the alert. Investigate the context. Detect the threat.
+
+<br>
+
+<sub>Thanks for visiting my profile! 🚀</sub>
+
+</div>
 
 
 <!--
